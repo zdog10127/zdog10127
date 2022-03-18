@@ -1,6 +1,6 @@
 ### 👋 Olá
 
-Sou desenvolvedor full-stack no <img src="https://img.freepik.com/vetores-gratis/bandeira-do-brasil-pincelada-bandeira-nacional-da-republica-federativa-do-brasil-ilustracao-vetorial_132915-63.jpg?size=626&ext=jpg" width="13"/> Brasil. Atualmente Trabalhando na <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEu4GACB21zzA/company-logo_200_200/0/1640628989485?e=1655942400&v=beta&t=iShz2u0EbauDgdNOwHKQHDjN7nB0htmW9K15c8rq364" width="13" /> Bit Pag. Eu gosto de codificar por diversão😋 e fazer projetos de brinquedos🎈.
+Sou desenvolvedor full-stack no <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="13"/> Brasil. Atualmente Trabalhando na <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEu4GACB21zzA/company-logo_200_200/0/1640628989485?e=1655942400&v=beta&t=iShz2u0EbauDgdNOwHKQHDjN7nB0htmW9K15c8rq364" width="13" /> Bit Pag. Eu gosto de codificar por diversão😋 e fazer projetos de brinquedos🎈.
 
 <h3> 🔍 Onde me encontrar </h3>
 <div>
