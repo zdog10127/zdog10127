@@ -11,7 +11,7 @@ Me chamo Gabriel e sou desenvolvedor full-stack no <img src="https://s1.static.b
 </div>
 
 <div>
-<a href="https://github.com/zdog10127">
+<a href="https://github.com/seu-usuario-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdog10127&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zdog10127&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
