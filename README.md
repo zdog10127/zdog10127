@@ -27,7 +27,7 @@
 
 ### 👋 Olá
 
-Me chamo Gabriel e sou desenvolvedor full-stack no <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="16"/> Brasil. Eu gosto de codificar por diversão😋 e fazer projetos de brinquedos🎈.
+Me chamo Gabriel e sou desenvolvedor full-stack no <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" width="16"/> Brasil. Eu gosto de codificar por diversão e fazer projetos de brinquedos.
 
 <h3> 🔍 Onde me encontrar </h3>
 <div>
