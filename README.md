@@ -14,4 +14,4 @@ In my professional journey, I also proudly served as Back-end Technical Leader, 
 ![C#](https://img.shields.io/badge/csharp-black.svg?style=for-the-badge&logo=csharp&logoColor=blue)![.Net](https://img.shields.io/badge/net-%23323330.svg?style=for-the-badge&logo=.net&logoColor=blue)
 
 # 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zdog__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teles-76a486161/) [![Twitch](https://img.shields.io/badge/Twitch-black.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zdog__) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zdog___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teles-76a486161/) [![Twitch](https://img.shields.io/badge/Twitch-black.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zdog__) 
