@@ -1,33 +1,17 @@
-<div align="center">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="60" height="60"/>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="60" height="60"/>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="60" height="60"/>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="60" height="60"/>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="60" height="60"/>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="60" height="60"/>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="60" height="60"/>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/rythmicalparrot.gif" width="60" height="60" />
-</div>
+# 👋 Hi there
 
+I'm Gabriel Teles, a passionate software developer and technology enthusiast.
+With more than 3 years of experience in the area, I had the opportunity to work on several interesting projects and explore different technologies.
 
-### 👋 Olá
+# 🚀 Expertise
 
-Me chamo Gabriel e sou Full Stack Developer 💻 no <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="25"/> Brasil. Me interessei nesta areá após trabalhar com um projeto em Unity <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" width="16"/> e desde então tenho desenvolvido minhas habilidades para se tornar um otimo desenvolvedor.
+Passionate about creating interactive and intuitive user experiences, I specialize in front-end and back-end web development, combining modern frameworks with best practice design patterns and API applications.
 
-Skills: 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+In my professional journey, I also proudly served as Back-end Technical Leader, a role where my technical expertise overcame the challenges of team management. I assumed leadership responsibilities, guiding my team with strategic oversight and ensuring projects were executed efficiently.
 
-<h3> 🔍 Onde me encontrar </h3>
-<div>
-<a href="https://instagram.com/zdog__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/zdog__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@gabrieltelessantos48@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-teles-76a486161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![C#](https://img.shields.io/badge/csharp-black.svg?style=for-the-badge&logo=csharp&logoColor=blue)![.Net](https://img.shields.io/badge/net-%23323330.svg?style=for-the-badge&logo=.net&logoColor=blue)
+
+# 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zdog10127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teles-76a486161/) [![Twitch](https://img.shields.io/badge/Twitch-black.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zdog__) 
