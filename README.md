@@ -49,8 +49,8 @@ Throughout my career, I’ve also had the honor of serving as a Back-end Technic
 
 ## 📈 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdog26&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdog26&layout=compact&theme=dracula)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdog10127&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdog10127&layout=compact&theme=dracula)
 
 ---
 
