@@ -1,59 +1,93 @@
-# 👋 Hi there
-
-I'm Gabriel Teles, a passionate software developer and technology enthusiast. With over 3 years of experience in the field, I've had the opportunity to dive into various projects, applying and exploring different tools and technologies. My passion for creating interactive and intuitive user experiences has led me to specialize in both front-end and back-end web development, where I combine modern frameworks with effective design patterns and robust API solutions.
-
-Throughout my career, I’ve also had the honor of serving as a Back-end Technical Lead, where I faced the challenge of blending my technical expertise with team leadership. In this role, I took on the responsibility of coordinating a team of developers, focusing on strategic solutions and ensuring efficient project delivery. This experience broadened my ability to solve complex problems and gave me a comprehensive perspective on how to lead projects with a focus on high-quality results.
-
----
-
-## 🚀 Expertise & Skills
-
-- **Full-Stack Development:** Proficient in both front-end and back-end technologies, with experience building scalable, efficient, and maintainable web applications.
-- **API Development:** Expertise in designing and developing RESTful APIs with secure, clean, and modular code.
-- **Leadership:** Managed and guided development teams, ensuring that projects were delivered on time and met high-quality standards.
-- **User Experience:** Focus on creating intuitive and engaging user interfaces, applying modern UI/UX principles to deliver seamless digital experiences.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
   
+  # Gabriel Teles
+  ### Full Stack Developer | Technical Leader
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teles-76a486161/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zdog___/)
+  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/zdog__)
+</div>
+
+## 👨‍💻 About Me
+
+Software developer with over 4 years of experience building web and mobile applications. I'm passionate about creating intuitive interfaces and robust backend solutions. My experience includes leading development teams and ensuring high-quality project delivery.
+
+- 🔭 I'm currently working with **React, TypeScript, C# and .NET**
+- 🌱 I'm always learning about **Clean Architecture, Microservices, and Cloud Technologies**
+- 💬 Ask me about **Full Stack Development, Technical Leadership, and Software Architecture**
+
+## 🛠️ Skills
+
+<div align="center">
+  
+  ### Languages
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  
+  ### Frontend
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+  
+  ### Backend
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  
+  ### Database & DevOps
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>Open Finance Platform</h3>
+      <p><b>Tech:</b> React, TypeScript, C#, .NET, Docker</p>
+      <p>Authentication and account management solution with modular architecture and secure API integration.</p>
+    </td>
+    <td>
+      <h3>Event Management System</h3>
+      <p><b>Tech:</b> React, React Native, C#, Expo</p>
+      <p>Comprehensive platform with web and mobile interfaces for event coordination and ticketing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Financial Dashboard</h3>
+      <p><b>Tech:</b> React, TypeScript, Material UI</p>
+      <p>Personal finance management tool with dynamic calculations and intuitive visualization.</p>
+    </td>
+    <td>
+      <h3>MedInova</h3>
+      <p><b>Tech:</b> React, Node.js, SQL Server</p>
+      <p>Appointment scheduling and patient record system for healthcare professionals.</p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zdog10127&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdog10127&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ---
 
-## 🛠️ My Tech Stack
-
-- **Languages:** JavaScript, TypeScript, C#, HTML5, CSS3
-- **Front-End Frameworks:** React, Vue.js, Next.js, Styled Components, SASS, LESS
-- **Back-End Frameworks:** .NET, Node.js, Express
-- **Databases:** SQL Server, MySQL, MongoDB
-- **DevOps Tools:** Docker, GitHub Actions, Jenkins
-- **API Tools:** Postman, Swagger
-- **Others:** Babel, Webpack, Vite
-
----
-
-## 🔥 Highlight Projects
-
-1. **MedInova** – A system for psychologists and doctors to schedule appointments and manage patient records. Built with React, Node.js, and SQL Server.
-   - **Role:** Full-stack developer, involved in architecture design and API development.
-   - **Tech Used:** React, Node.js, SQL Server, Postman
-
-2. **E-commerce Platform** – A scalable e-commerce platform that includes product management, user authentication, and payment gateway integration.
-   - **Role:** Back-end Technical Lead, leading a team of developers.
-   - **Tech Used:** .NET Core, React, Docker, SQL Server
-
----
-
-## 🏆 Achievements
-
-- **3+ Years of Professional Development Experience**
-- **Led teams in multiple full-stack web projects**
-- **Developed complex systems with a focus on scalability and performance**
-
----
-
-## 📈 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdog10127&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdog10127&layout=compact&theme=dracula)
-
----
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zdog___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teles-76a486161/) [![Twitch](https://img.shields.io/badge/Twitch-black.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zdog__)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zdog10127&color=blueviolet&style=flat-square" alt="Profile views"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
