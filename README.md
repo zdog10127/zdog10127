@@ -23,7 +23,7 @@
 
 ## 🗡️ About Me
 
-Software developer with **4+ years of experience** building web, mobile and real-time systems — from chat platforms with voice/video to production management systems used by real clinics and gyms. I lead small teams end-to-end: architecture, delivery and everything in between.
+Software developer with **5+ years of experience** building web, mobile and real-time systems — from chat platforms with voice/video to production management systems used by real clinics and gyms. I lead small teams end-to-end: architecture, delivery and everything in between.
 
 - 🔭 Currently building **Nebula** — a full-stack Discord-style platform (.NET 8 + SignalR + LiveKit + React)
 - 🌱 Deepening **Clean Architecture, real-time systems (WebRTC/SignalR) and cloud infrastructure (AWS, Terraform)**
